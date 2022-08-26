@@ -1,0 +1,11 @@
+- This tool was created with the intention to initially monitor and report the number of AWS cloud instances to the respective stakeholders, and progress to remove said instances from AWS cloud using AWS SM
+
+- Utilizing PostgresDB and Python scripting the instances were enumerated. These scripts were automated using CRON jobs and shell scripts to prevent manual intervention
+
+- The tool hekped saves time, which would be needed to otherwise enumerate the instances manually, and money for the team by highlighting the count of instances created
+
+- The stakeholders would discuss on the instances created and deliberate whether their requirements justified the number of AWS instances
+
+- Furthermore, the tool was modified to remove instance details from the DB and delete AWS instances using the AWS SM module
+
+- In just 3 months of its functioning, the tool managed to save $40000 for the team
