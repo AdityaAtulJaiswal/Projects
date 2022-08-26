@@ -1,0 +1,14 @@
+-This was a tool made in conjunction with the Governance team and the Development team.
+
+- Data was extracted from the MSSQL DB and using stored procedures it was processed and fed to the front end
+
+- The data on the front end was represented in various visual representations like bar charts, line graphs, pie charts and combo graphs
+
+- With this the security controls of Infosys were brought onto a single platform and was presentable to not only the managers,
+  but was regularly presented to the CISO in order to gauge the compliance of the polilcies with the controls present
+
+- This highlighted the gaps in security policies and even highlighted workflows which hindered achieving the security policy goal
+
+- This tool helped achieve NIST and ISO 27001 standards in Infosys
+
+-Furthermore, this tool was finalized as a finished product called "CyberGaze" and was marketed to generate revenue for the company
